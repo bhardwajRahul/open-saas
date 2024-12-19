@@ -55,7 +55,7 @@ export default defineConfig({
       },
       social: {
         github: 'https://github.com/wasp-lang/open-saas',
-        twitter: 'https://twitter.com/wasp_lang',
+        twitter: 'https://twitter.com/wasplang',
         discord: 'https://discord.gg/aCamt5wCpS',
       },
       sidebar: [
@@ -91,6 +91,12 @@ export default defineConfig({
               name: 'Matija',
               title: 'CEO @ Wasp',
               picture: '/matija.jpeg', // Images in the `public` directory are supported.
+              url: 'https://wasp-lang.dev',
+            },
+            milica: {
+              name: 'Milica',
+              title: 'Growth @ Wasp',
+              picture: '/milica.jpg', // Images in the `public` directory are supported.
               url: 'https://wasp-lang.dev',
             },
           },
